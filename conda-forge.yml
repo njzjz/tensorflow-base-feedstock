@@ -1,1 +1,7 @@
-{}
+github:
+  user_or_org: deepmd-kit-recipes
+channels:
+  targets:
+    -
+      - deepmodeling
+channel_priority: flexible
