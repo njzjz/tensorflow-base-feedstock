@@ -8,32 +8,68 @@ jobs:
     vmImage: macOS-10.15
   strategy:
     matrix:
-      osx_64_cudnn7python3.7._:
-        CONFIG: osx_64_cudnn7python3.7._
+      osx_64_cuda_compiler_version10.0cudnn7python3.7._:
+        CONFIG: osx_64_cuda_compiler_version10.0cudnn7python3.7._
         UPLOAD_PACKAGES: 'True'
-      osx_64_cudnn7python3.8._:
-        CONFIG: osx_64_cudnn7python3.8._
+      osx_64_cuda_compiler_version10.0cudnn7python3.8._:
+        CONFIG: osx_64_cuda_compiler_version10.0cudnn7python3.8._
         UPLOAD_PACKAGES: 'True'
-      osx_64_cudnn7python3.9._:
-        CONFIG: osx_64_cudnn7python3.9._
+      osx_64_cuda_compiler_version10.0cudnn7python3.9._:
+        CONFIG: osx_64_cuda_compiler_version10.0cudnn7python3.9._
         UPLOAD_PACKAGES: 'True'
-      osx_64_cudnn8python3.7._:
-        CONFIG: osx_64_cudnn8python3.7._
+      osx_64_cuda_compiler_version10.1cudnn7python3.7._:
+        CONFIG: osx_64_cuda_compiler_version10.1cudnn7python3.7._
         UPLOAD_PACKAGES: 'True'
-      osx_64_cudnn8python3.8._:
-        CONFIG: osx_64_cudnn8python3.8._
+      osx_64_cuda_compiler_version10.1cudnn7python3.8._:
+        CONFIG: osx_64_cuda_compiler_version10.1cudnn7python3.8._
         UPLOAD_PACKAGES: 'True'
-      osx_64_cudnn8python3.9._:
-        CONFIG: osx_64_cudnn8python3.9._
+      osx_64_cuda_compiler_version10.1cudnn7python3.9._:
+        CONFIG: osx_64_cuda_compiler_version10.1cudnn7python3.9._
         UPLOAD_PACKAGES: 'True'
-      osx_64_cudnnNonepython3.7._:
-        CONFIG: osx_64_cudnnNonepython3.7._
+      osx_64_cuda_compiler_version10.2cudnn8python3.7._:
+        CONFIG: osx_64_cuda_compiler_version10.2cudnn8python3.7._
         UPLOAD_PACKAGES: 'True'
-      osx_64_cudnnNonepython3.8._:
-        CONFIG: osx_64_cudnnNonepython3.8._
+      osx_64_cuda_compiler_version10.2cudnn8python3.8._:
+        CONFIG: osx_64_cuda_compiler_version10.2cudnn8python3.8._
         UPLOAD_PACKAGES: 'True'
-      osx_64_cudnnNonepython3.9._:
-        CONFIG: osx_64_cudnnNonepython3.9._
+      osx_64_cuda_compiler_version10.2cudnn8python3.9._:
+        CONFIG: osx_64_cuda_compiler_version10.2cudnn8python3.9._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_version11.0cudnn8python3.7._:
+        CONFIG: osx_64_cuda_compiler_version11.0cudnn8python3.7._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_version11.0cudnn8python3.8._:
+        CONFIG: osx_64_cuda_compiler_version11.0cudnn8python3.8._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_version11.0cudnn8python3.9._:
+        CONFIG: osx_64_cuda_compiler_version11.0cudnn8python3.9._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_version11.1cudnn8python3.7._:
+        CONFIG: osx_64_cuda_compiler_version11.1cudnn8python3.7._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_version11.1cudnn8python3.8._:
+        CONFIG: osx_64_cuda_compiler_version11.1cudnn8python3.8._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_version11.1cudnn8python3.9._:
+        CONFIG: osx_64_cuda_compiler_version11.1cudnn8python3.9._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_version9.2cudnn7python3.7._:
+        CONFIG: osx_64_cuda_compiler_version9.2cudnn7python3.7._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_version9.2cudnn7python3.8._:
+        CONFIG: osx_64_cuda_compiler_version9.2cudnn7python3.8._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_version9.2cudnn7python3.9._:
+        CONFIG: osx_64_cuda_compiler_version9.2cudnn7python3.9._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_versionNonecudnnNonepython3.7._:
+        CONFIG: osx_64_cuda_compiler_versionNonecudnnNonepython3.7._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_versionNonecudnnNonepython3.8._:
+        CONFIG: osx_64_cuda_compiler_versionNonecudnnNonepython3.8._
+        UPLOAD_PACKAGES: 'True'
+      osx_64_cuda_compiler_versionNonecudnnNonepython3.9._:
+        CONFIG: osx_64_cuda_compiler_versionNonecudnnNonepython3.9._
         UPLOAD_PACKAGES: 'True'
   timeoutInMinutes: 360
 

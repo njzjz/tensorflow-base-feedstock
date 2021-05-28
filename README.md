@@ -36,192 +36,444 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_cudnn7python3.7.</td>
+              <td>linux_64_cuda_compiler_version10.0cudnn7python3.7.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cudnn7python3.7._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version10.0cudnn7python3.7._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_cudnn7python3.8.</td>
+              <td>linux_64_cuda_compiler_version10.0cudnn7python3.8.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cudnn7python3.8._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version10.0cudnn7python3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_cudnn7python3.9.</td>
+              <td>linux_64_cuda_compiler_version10.0cudnn7python3.9.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cudnn7python3.9._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version10.0cudnn7python3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_cudnn8python3.7.</td>
+              <td>linux_64_cuda_compiler_version10.1cudnn7python3.7.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cudnn8python3.7._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version10.1cudnn7python3.7._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_cudnn8python3.8.</td>
+              <td>linux_64_cuda_compiler_version10.1cudnn7python3.8.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cudnn8python3.8._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version10.1cudnn7python3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_cudnn8python3.9.</td>
+              <td>linux_64_cuda_compiler_version10.1cudnn7python3.9.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cudnn8python3.9._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version10.1cudnn7python3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_cudnnNonepython3.7.</td>
+              <td>linux_64_cuda_compiler_version10.2cudnn8python3.7.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cudnnNonepython3.7._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version10.2cudnn8python3.7._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_cudnnNonepython3.8.</td>
+              <td>linux_64_cuda_compiler_version10.2cudnn8python3.8.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cudnnNonepython3.8._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version10.2cudnn8python3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_cudnnNonepython3.9.</td>
+              <td>linux_64_cuda_compiler_version10.2cudnn8python3.9.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cudnnNonepython3.9._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version10.2cudnn8python3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_cudnn7python3.7.</td>
+              <td>linux_64_cuda_compiler_version11.0cudnn8python3.7.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cudnn7python3.7._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version11.0cudnn8python3.7._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_cudnn7python3.8.</td>
+              <td>linux_64_cuda_compiler_version11.0cudnn8python3.8.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cudnn7python3.8._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version11.0cudnn8python3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_cudnn7python3.9.</td>
+              <td>linux_64_cuda_compiler_version11.0cudnn8python3.9.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cudnn7python3.9._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version11.0cudnn8python3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_cudnn8python3.7.</td>
+              <td>linux_64_cuda_compiler_version11.1cudnn8python3.7.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cudnn8python3.7._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version11.1cudnn8python3.7._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_cudnn8python3.8.</td>
+              <td>linux_64_cuda_compiler_version11.1cudnn8python3.8.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cudnn8python3.8._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version11.1cudnn8python3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_cudnn8python3.9.</td>
+              <td>linux_64_cuda_compiler_version11.1cudnn8python3.9.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cudnn8python3.9._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version11.1cudnn8python3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_cudnnNonepython3.7.</td>
+              <td>linux_64_cuda_compiler_version9.2cudnn7python3.7.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cudnnNonepython3.7._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version9.2cudnn7python3.7._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_cudnnNonepython3.8.</td>
+              <td>linux_64_cuda_compiler_version9.2cudnn7python3.8.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cudnnNonepython3.8._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version9.2cudnn7python3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_cudnnNonepython3.9.</td>
+              <td>linux_64_cuda_compiler_version9.2cudnn7python3.9.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cudnnNonepython3.9._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_version9.2cudnn7python3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_cudnn7python3.7.</td>
+              <td>linux_64_cuda_compiler_versionNonecudnnNonepython3.7.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cudnn7python3.7._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_versionNonecudnnNonepython3.7._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_cudnn7python3.8.</td>
+              <td>linux_64_cuda_compiler_versionNonecudnnNonepython3.8.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cudnn7python3.8._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_versionNonecudnnNonepython3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_cudnn7python3.9.</td>
+              <td>linux_64_cuda_compiler_versionNonecudnnNonepython3.9.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cudnn7python3.9._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=linux&configuration=linux_64_cuda_compiler_versionNonecudnnNonepython3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_cudnn8python3.7.</td>
+              <td>osx_64_cuda_compiler_version10.0cudnn7python3.7.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cudnn8python3.7._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version10.0cudnn7python3.7._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_cudnn8python3.8.</td>
+              <td>osx_64_cuda_compiler_version10.0cudnn7python3.8.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cudnn8python3.8._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version10.0cudnn7python3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_cudnn8python3.9.</td>
+              <td>osx_64_cuda_compiler_version10.0cudnn7python3.9.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cudnn8python3.9._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version10.0cudnn7python3.9._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_cudnnNonepython3.7.</td>
+              <td>osx_64_cuda_compiler_version10.1cudnn7python3.7.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cudnnNonepython3.7._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version10.1cudnn7python3.7._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_cudnnNonepython3.8.</td>
+              <td>osx_64_cuda_compiler_version10.1cudnn7python3.8.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cudnnNonepython3.8._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version10.1cudnn7python3.8._" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_cudnnNonepython3.9.</td>
+              <td>osx_64_cuda_compiler_version10.1cudnn7python3.9.</td>
               <td>
                 <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cudnnNonepython3.9._" alt="variant">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version10.1cudnn7python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version10.2cudnn8python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version10.2cudnn8python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version10.2cudnn8python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version10.2cudnn8python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version10.2cudnn8python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version10.2cudnn8python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version11.0cudnn8python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version11.0cudnn8python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version11.0cudnn8python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version11.0cudnn8python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version11.0cudnn8python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version11.0cudnn8python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version11.1cudnn8python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version11.1cudnn8python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version11.1cudnn8python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version11.1cudnn8python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version11.1cudnn8python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version11.1cudnn8python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version9.2cudnn7python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version9.2cudnn7python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version9.2cudnn7python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version9.2cudnn7python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_version9.2cudnn7python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_version9.2cudnn7python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_versionNonecudnnNonepython3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_versionNonecudnnNonepython3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_versionNonecudnnNonepython3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_versionNonecudnnNonepython3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_cuda_compiler_versionNonecudnnNonepython3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=osx&configuration=osx_64_cuda_compiler_versionNonecudnnNonepython3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version10.0cudnn7python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version10.0cudnn7python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version10.0cudnn7python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version10.0cudnn7python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version10.0cudnn7python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version10.0cudnn7python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version10.1cudnn7python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version10.1cudnn7python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version10.1cudnn7python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version10.1cudnn7python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version10.1cudnn7python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version10.1cudnn7python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version10.2cudnn8python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version10.2cudnn8python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version10.2cudnn8python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version10.2cudnn8python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version10.2cudnn8python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version10.2cudnn8python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version11.0cudnn8python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version11.0cudnn8python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version11.0cudnn8python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version11.0cudnn8python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version11.0cudnn8python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version11.0cudnn8python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version11.1cudnn8python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version11.1cudnn8python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version11.1cudnn8python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version11.1cudnn8python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version11.1cudnn8python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version11.1cudnn8python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version9.2cudnn7python3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version9.2cudnn7python3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version9.2cudnn7python3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version9.2cudnn7python3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_version9.2cudnn7python3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_version9.2cudnn7python3.9._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_versionNonecudnnNonepython3.7.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_versionNonecudnnNonepython3.7._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_versionNonecudnnNonepython3.8.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_versionNonecudnnNonepython3.8._" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_cuda_compiler_versionNonecudnnNonepython3.9.</td>
+              <td>
+                <a href="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_build/latest?definitionId=&branchName=master">
+                  <img src="https://dev.azure.com/deepmd-kit-recipes/feedstock-builds/_apis/build/status/tensorflow-base-feedstock?branchName=master&jobName=win&configuration=win_64_cuda_compiler_versionNonecudnnNonepython3.9._" alt="variant">
                 </a>
               </td>
             </tr>
