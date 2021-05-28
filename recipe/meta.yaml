@@ -84,7 +84,7 @@ requirements:
     # GPU requirements
     - cudatoolkit {{ cuda_compiler_version }}*
     - cudnn {{ cudnn }}*
-    - cupti  # [not win]
+    # - cupti  # [not win]
 
   run:
     - python
