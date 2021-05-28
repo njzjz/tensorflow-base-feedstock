@@ -82,7 +82,7 @@ requirements:
     # has run_exports, doesn't need a run dep below
     - zlib
     # GPU requirements
-    - cudatoolkit {{ cudatoolkit }}*
+    - cudatoolkit {{ cuda_compiler_version }}*
     - cudnn {{ cudnn }}*
     - cupti  # [not win]
 
