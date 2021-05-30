@@ -106,7 +106,7 @@ requirements:
     - {{ pin_compatible('wrapt', max_pin=None) }}
     - {{ pin_compatible('cudatoolkit', max_pin='x.x') }}
     - {{ pin_compatible('cudnn') }}
-    - cupti  # [not win]
+    #- cupti  # [not win]
     - typing_extensions  # [py<38]
     - python-flatbuffers
 
