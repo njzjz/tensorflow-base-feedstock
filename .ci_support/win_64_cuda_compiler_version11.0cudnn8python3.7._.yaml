@@ -1,9 +1,9 @@
 aws_sdk_cpp:
-- 1.8.185
+- 1.8.186
 c_compiler:
 - vs2017
 c_compiler_version:
-- '7.3'
+- '5.4'
 cdt_name:
 - cos7
 channel_sources:
@@ -17,7 +17,7 @@ cudnn:
 cxx_compiler:
 - vs2017
 cxx_compiler_version:
-- '7.3'
+- '5.4'
 docker_image:
 - quay.io/condaforge/linux-anvil-cuda:11.0
 numpy:
