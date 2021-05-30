@@ -1,9 +1,9 @@
 tflow_variant:
   - gpu
 c_compiler_version:
-- 7.3
+- 5.4
 cxx_compiler_version:
-- 7.3
+- 5.4
 channel_sources:
 - deepmodeling,nvidia,defaults
 channel_targets:
